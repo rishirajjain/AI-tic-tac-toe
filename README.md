@@ -1,3 +1,4 @@
 # AI-tic-tac-toe
-To run:
+To run(in terminal):
+
 python tic.py 
